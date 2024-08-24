@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IjaraUy.API", "IjaraUy.API\IjaraUy.API.csproj", "{238E8CA7-8F1B-4285-AA0F-952B728AB5F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IjaraUy.API", "IjaraUy.API\IjaraUy.API.csproj", "{238E8CA7-8F1B-4285-AA0F-952B728AB5F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IjaraUy.API.Tests.Unit", "IjaraUy.API.Tests.Unit\IjaraUy.API.Tests.Unit.csproj", "{D1868D4C-F5CB-4098-AF75-C2E422CC1BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{238E8CA7-8F1B-4285-AA0F-952B728AB5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238E8CA7-8F1B-4285-AA0F-952B728AB5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238E8CA7-8F1B-4285-AA0F-952B728AB5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1868D4C-F5CB-4098-AF75-C2E422CC1BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1868D4C-F5CB-4098-AF75-C2E422CC1BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1868D4C-F5CB-4098-AF75-C2E422CC1BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1868D4C-F5CB-4098-AF75-C2E422CC1BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
